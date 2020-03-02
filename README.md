@@ -6,13 +6,13 @@
 - Demo
   1. Trường hợp link hợp lệ
     
-      ![demo](screenshots\fshareAPI\valid.file.png)
+      ![demo](screenshots/fshareAPI/valid.file.png)
 
-      ![demo](screenshots\fshareAPI\valid.folder.png)
+      ![demo](screenshots/fshareAPI/valid.folder.png)
 
   2. Trường hợp link không hợp lệ
 
-      ![unvalid](screenshots\fshareAPI\unvalid.png)
+      ![unvalid](screenshots/fshareAPI/unvalid.png)
 
 <hr>
 
@@ -25,12 +25,12 @@
 
   1. Trường hợp chỉ có url
 
-      ![urlOnly](screenshots\srigenAPI\urlOnly.png)
+      ![urlOnly](screenshots/srigenAPI/urlOnly.png)
 
   2. Trường hợp có param "sha"
 
-      ![withSHA256](screenshots\srigenAPI\withParam256.png)
+      ![withSHA256](screenshots/srigenAPI/withParam256.png)
 
-      ![withSHA384](screenshots\srigenAPI\withParam384.png)
+      ![withSHA384](screenshots/srigenAPI/withParam384.png)
 
-      ![withSHA512](screenshots\srigenAPI\withParam512.png)
+      ![withSHA512](screenshots/srigenAPI/withParam512.png)
