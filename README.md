@@ -2,6 +2,7 @@
 ## A. Fshare API: https://apis-delnegend.herokuapp.com/fshare
 - Param:
   - url: link thư mục hoặc file fshare
+  - fastid *(optional)*: để true nếu chỉ cần lấy ID
 - Kiểu dữ liệu trả về: json
 - Demo
   1. Trường hợp link hợp lệ
