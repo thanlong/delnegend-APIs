@@ -1,5 +1,5 @@
 # API
-## A. Fshare API: https://apis-delnegend.herokuapp.com/fshare
+## A. Fshare API: [apis.delnegend.com/fshare](https://apis.delnegend.com/fshare)
 - Param:
   - url: link thư mục hoặc file fshare
   - fastid *(optional)*: để true nếu chỉ cần lấy ID
@@ -35,3 +35,11 @@
       ![withSHA384](screenshots/srigenAPI/withParam384.png)
 
       ![withSHA512](screenshots/srigenAPI/withParam512.png)
+      
+      <hr>
+
+## C. Movie ratings:
+### IMDB: [apis.delnegend.com/imdb](https://apis.delnegend.com/imdb)
+- Param: id (string), raw (boolean)
+### RottenTomatoes: [apis.delnegend.com/rottentomatoes](https://apis.delnegend.com/rottentomatoes)
+- Param: url (string), raw (boolean)
