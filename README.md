@@ -11,7 +11,7 @@
   - https://apis.delnegend.com/rottentomatoes?url=https://www.rottentomatoes.com/m/the_suicide_squad
 ## Param `raw` để làm gì?
   - Do nhu cầu của mình là chỉ cần lấy điểm review với số lượt đánh giá, những dữ liệu còn lại như đạo diễn, diễn viên, review... mình không có nhu cầu, nhưng phòng trường hợp có bạn quan tâm nên mình để lại.
-  - RottenTomatoes audience score đang lỗi, chưa hẹn ngày fix lại.
+  - RottenTomatoes audience score hiện chỉ mới lấy được điểm của phim truyền hình dài tập, chưa lấy được của phim lẻ, chưa hẹn ngày fix.
 
 # Fshare: [apis.delnegend.com/fshare](https://apis.delnegend.com/fshare)
 - Param:
